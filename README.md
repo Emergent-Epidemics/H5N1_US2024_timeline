@@ -6,6 +6,10 @@ Data associated with the timeline of events during the 2024 H5N1 outbreak in the
 ### Acknowledgements
 We want to thank all the individuals and organizations across the world who have been willing and able to report data in as open and timely manner as possible. 
 
+### Data
+1. Timeline Data/ H5N1 US Timeline 2024.csv - Contains detailed information on events related to the H5N1 outbreak in the US.
+2. Timeline Image/2024-04-26_HPAI_Timeline.png - Contains an image of the timeline.
+
 ### License
 (see LICENSE)
 
