@@ -2,9 +2,9 @@
 Data associated with the timeline of events during the 2024 H5N1 outbreak in the United States
 
 ### Citation
-Klein B, Kraemer MUG, and Scarpino SV. 2024. Timeline for H5N1 in the USA during the 2024 Outbreak. 10.5281/zenodo.11074935 https://github.com/Emergent-Epidemics/H5N1_US2024_timeline 
+Klein B, Kraemer MUG, and Scarpino SV. 2024. Timeline for H5N1 in the USA during the 2024 Outbreak. 10.5281/zenodo.11075021 https://github.com/Emergent-Epidemics/H5N1_US2024_timeline 
 
-[![DOI](https://zenodo.org/badge/792423361.svg)](https://zenodo.org/doi/10.5281/zenodo.11074934)
+[![DOI](https://zenodo.org/badge/792423361.svg)](https://zenodo.org/doi/10.5281/zenodo.11075021)
 
 ### Acknowledgements
 We want to thank all the individuals and organizations across the world who have been willing and able to report data in as open and timely manner as possible. 
