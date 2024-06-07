@@ -2,18 +2,21 @@
 Data associated with the timeline of events during the 2024 H5N1 outbreak in the United States
 
 ### Citation
-Klein B, Kraemer MUG, and Scarpino SV. 2024. Timeline for H5N1 in the USA during the 2024 Outbreak. 10.5281/zenodo.11105390 https://github.com/Emergent-Epidemics/H5N1_US2024_timeline 
+Klein B, Kraemer MUG, and Scarpino SV. 2024. Timeline for H5N1 in the USA during the 2024 Outbreak. 10.5281/zenodo.11521177 https://github.com/Emergent-Epidemics/H5N1_US2024_timeline 
 
-Apr 26th, 2024 -  [![DOI](https://zenodo.org/badge/792423361.svg)](https://zenodo.org/doi/10.5281/zenodo.11075021)
+June 7th, 2024 -  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11521177.svg)](https://zenodo.org/doi/10.5281/zenodo.11521177)
 
 May 2nd, 2024 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11105390.svg)](https://doi.org/10.5281/zenodo.11105390)
+
+Apr 26th, 2024 -  [![DOI](https://zenodo.org/badge/792423361.svg)](https://zenodo.org/doi/10.5281/zenodo.11075021)
 
 ### Acknowledgements
 We want to thank all the individuals and organizations across the world who have been willing and able to report data in as open and timely manner as possible. 
 
 ### Data
 1. Timeline Data/ H5N1 US Timeline 2024.csv - Contains detailed information on events related to the H5N1 outbreak in the US.
-2. Timeline Image/2024-04-26_HPAI_Timeline.png - Contains an image of the timeline.
+2. Timeline Image/* - Contains images of the timelines.\
+3. WastewaterSCAN data/wastewater_scan_h5_usa.csv - Contains data on positive H5 results from WastewaterSCAN sites. 
 
 ### License
 (see LICENSE)
