@@ -1,29 +1,43 @@
-"Site_name","City","State","Week_positive"
-"Dallas Central"," Dallas"," TX",2024-05-10
-"Lander Street"," Boise"," ID",2024-05-10
-"White Rock Central"," Dallas"," TX",2024-05-10
-NA," Jackson"," MI",2024-05-13
-"Southside"," Dallas"," TX",2024-05-13
-NA," Traverse City"," MI",2024-05-13
-NA," Mt Pleasant"," MI",2024-05-14
-"White Rock Central"," Dallas"," TX",2024-05-14
-"Dallas Central"," Dallas"," TX",2024-05-16
-NA," Jackson"," MI",2024-05-16
-NA," Warren"," MI",2024-05-16
-NA," Ann Arbor"," MI",2024-05-17
-"Dallas Central"," Dallas"," TX",2024-05-17
-NA," Jenison"," MI",2024-05-17
-NA," Red Wing"," MN",2024-05-17
-NA," St Cloud"," MN",2024-05-17
-"White Rock Central"," Dallas"," TX",2024-05-17
-NA," Jackson"," MI",2024-05-19
-NA," Traverse City"," MI",2024-05-19
-"Dallas Central"," Dallas"," TX",2024-05-20
-"Lander Street"," Boise"," ID",2024-05-20
-NA," Mankato"," MN",2024-05-20
-NA," Jackson"," MI",2024-05-26
-NA," Marshalltown"," IA",2024-05-26
-NA," Jenison"," MI",2024-05-27
-NA," Warren"," MI",2024-05-27
-"White Rock Central"," Dallas"," TX",2024-05-27
-"Dallas Central"," Dallas"," TX",2024-05-28
+Site_name,City,State,Week_positive
+NA,Jackson,MI,5/16/24
+Dallas Central,Dallas,TX,5/17/24
+Lander St,Boise,ID,5/17/24
+White Rock Central,Dallas,TX,5/17/24
+NA,Jackson,MI,5/19/24
+Southside,Dallas,TX,5/19/24
+NA,Traverse City,MI,5/19/24
+Dallas Central,Dallas,TX,5/20/24
+NA,Mt Pleasant,MI,5/20/24
+White Rock Central,Dallas,TX,5/20/24
+NA,Jackson,MI,5/21/24
+NA,Warren,MI,5/21/24
+NA,Ann Arbor,MI,5/22/24
+Dallas Central,Dallas,TX,5/22/24
+NA,Jenison,MI,5/22/24
+NA,Red Wing,MN,5/22/24
+NA,St Cloud,MN,5/22/24
+White Rock Central,Dallas,TX,5/22/24
+NA,Jackson,MI,5/23/24
+NA,Traverse City,MI,5/23/24
+Dallas Central,Dallas,TX,5/24/24
+Lander St,Boise,ID,5/24/24
+NA,Mankato,MN,5/24/24
+NA,Jackson,MI,5/28/24
+NA,Marshallrtown,IA,5/28/24
+NA,Jenison,MI,5/29/24
+Dallas Central,Dallas,TX,5/29/24
+NA,Warren,MI,5/29/24
+White Rock Central,Dallas,TX,5/29/24
+NA,Jackson,MI,5/30/24
+Dallas Central,Dallas,TX,5/31/24
+Lander St,Boise,ID,5/31/24
+White Rock Central,Dallas,TX,5/31/24
+NA,Jackson,MI,6/2/24
+NA,Traverse City,MI,6/3/24
+NA,Warren,MI,6/3/24
+NA,Jackson,MI,6/4/24
+White Rock Central,Dallas,TX,6/5/24
+NA,Jackson,MI,6/6/24
+NA,Warren,MI,6/6/24
+NA,Ann Arbor,MI,6/7/24
+NA,Jackson,MI,6/9/24
