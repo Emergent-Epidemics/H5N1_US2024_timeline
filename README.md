@@ -2,7 +2,9 @@
 Data associated with the timeline of events during the 2024 H5N1 outbreak in the United States. The timeline data are now being hosted live on the Council on Foreign Relations' publication Think Global Health's [website](https://www.thinkglobalhealth.org/article/timeline-h5n1-bird-flu-outbreak-us).
 
 ### Citation
-Klein B, Kraemer MUG, and Scarpino SV. 2024. Timeline for H5N1 in the USA during the 2024 Outbreak. 10.5281/zenodo.11521177 https://github.com/Emergent-Epidemics/H5N1_US2024_timeline 
+Klein B, Kraemer MUG, and Scarpino SV. 2024. Timeline for H5N1 in the USA during the 2024 Outbreak. 10.5281/zenodo.11977338 https://github.com/Emergent-Epidemics/H5N1_US2024_timeline 
+
+June 17th, 2024 -  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11977338.svg)](https://doi.org/10.5281/zenodo.11977338)
 
 June 7th, 2024 -  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11521177.svg)](https://doi.org/10.5281/zenodo.11521177)
 
