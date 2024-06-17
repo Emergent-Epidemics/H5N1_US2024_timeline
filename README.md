@@ -14,8 +14,8 @@ Apr 26th, 2024 -  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11075021.s
 We want to thank all the individuals and organizations across the world who have been willing and able to report data in as open and timely manner as possible. 
 
 ### Data
-1. Timeline Data/ H5N1 US Timeline 2024.csv - Contains detailed information on events related to the H5N1 outbreak in the US. The timeline images are no longer being updated. Please see [Think Global Health](https://www.thinkglobalhealth.org/article/timeline-h5n1-bird-flu-outbreak-us).
-2. Timeline Image/* - Contains images of the timelines.\
+1. Timeline Data/ H5N1 US Timeline 2024.csv - Contains detailed information on events related to the H5N1 outbreak in the US. 
+2. Timeline Image/* - Contains images of the timelines. The timeline images are no longer being updated. Please see [Think Global Health](https://www.thinkglobalhealth.org/article/timeline-h5n1-bird-flu-outbreak-us).
 3. WastewaterSCAN data/wastewater_scan_h5_usa.csv - Contains data on positive H5 results from WastewaterSCAN sites. 
 
 ### License
